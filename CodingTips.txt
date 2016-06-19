@@ -1,0 +1,13 @@
+Some tips:
+
+Don't let one day go by without writing code! Code every day!
+Allocate time every day to watch the videos and learn
+Plan out an app and start building it as you are learning - building your own apps is one of the best ways to learn
+Focus on a few key areas and don't learn a ton of new things. I recommend learning these items and dropping other things
+at the same time:
+iOS
+Swift
+Git
+Data structures / algorithms
+Design Patterns
+

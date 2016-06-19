@@ -1,0 +1,8 @@
+List of things to learn and grow.
+
+In order to build a mindset of a real software engineer, one of the best ways to get practice and be proactive and become a professional problem solver
+the person has to make some time and solve problems on a daily basis. The Euler's project is a great way to start practicing problem solving skills,
+According to IOS 9 development course author (Mark), a person has to aim to solve at least one problem per week at the Euler's project.
+Is in the best interest of the student to start coding everyday and if the student is not coding, then he/she should be watching videos, and learning
+more about technologies and new trends and future trends in the technology fields. The student is expected to always maintain himself on ahead of the game, by 
+learning new skills and making problem solving an everyday task. Do not by any means let a day go by without coding or solving a problem. 
